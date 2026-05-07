@@ -8,7 +8,7 @@ inicio
     total_acumulado <- 0
     para contador de 1 ate 3 faca
         escreva(" Digite o  valor do produto ", contador)
-        leia(valor-produto)
+        leia(valor_produto)
         total_acumulado <- total_acumulado + valor_produto
     fimpara
     escreva(" A soma dos produtos é R$ ", total_acumulado)
